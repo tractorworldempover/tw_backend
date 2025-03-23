@@ -1,0 +1,91 @@
+[2024-05-27 06:16:45 : INFO] - Re_Smush_It_Task with attachment ID : 13935, autocreated on : May 27, 2024 06:16:45 
+[2024-05-27 06:17:44 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-05-27 06:18:04 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-05-27 06:18:04 : INFO] - Re_Smush_It_Task - attachment ID : 13935, started on : May 27, 2024 06:18:04 
+[2024-05-27 06:18:04 : INFO] - File: Group-34456.png, Compression quality: 92 
+[2024-05-27 06:18:07 : INFO] - Backing up the original image - 2024/05/Group-34456-updraft-pre-smush-original.png 
+[2024-05-27 06:18:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-05-27 06:18:07 : INFO] - Successfully optimized the image - C:\xampp\htdocs\TractorWorld/wp-content/uploads/2024/05/Group-34456.png.The file was compressed from 925.31 KB to 319.18 KB, saving 65.51 percent, using WP-Optimize 
+[2024-05-27 06:18:07 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-05-27 06:18:45 : INFO] - Re_Smush_It_Task with attachment ID : 13936, autocreated on : May 27, 2024 06:18:44 
+[2024-05-27 06:22:09 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-05-27 06:22:09 : DEBUG] - Lock option (updraft_lock_smush, tw_options) was created in the database 
+[2024-05-27 06:22:09 : INFO] - Lock (updraft_lock_smush, tw_options) acquired after initialising the database 
+[2024-05-27 06:22:09 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-05-27 06:22:09 : INFO] - Re_Smush_It_Task with attachment ID : 13935, autocreated on : May 27, 2024 06:16:45 
+[2024-05-27 06:22:09 : INFO] - File: Group-34456.png, Compression quality: 92 
+[2024-05-27 06:22:11 : INFO] - Backing up the original image - 2024/05/Group-34456-updraft-pre-smush-original.png 
+[2024-05-27 06:22:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-05-27 06:22:12 : INFO] - Successfully optimized the image - C:\xampp\htdocs\TractorWorld/wp-content/uploads/2024/05/Group-34456.png.The file was compressed from 319.18 KB to 319.18 KB, saving 0 percent, using WP-Optimize 
+[2024-05-27 06:22:12 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-05-27 06:22:12 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-05-27 06:22:12 : INFO] - Re_Smush_It_Task with attachment ID : 13936, autocreated on : May 27, 2024 06:18:44 
+[2024-05-27 06:22:12 : INFO] - File: Group-34456-1.png, Compression quality: 92 
+[2024-05-27 06:22:16 : INFO] - Backing up the original image - 2024/05/Group-34456-1-updraft-pre-smush-original.png 
+[2024-05-27 06:22:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-05-27 06:22:16 : INFO] - Successfully optimized the image - C:\xampp\htdocs\TractorWorld/wp-content/uploads/2024/05/Group-34456-1.png.The file was compressed from 925.31 KB to 319.18 KB, saving 65.51 percent, using WP-Optimize 
+[2024-05-27 06:22:16 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-05-27 06:22:16 : INFO] - Lock option (updraft_lock_smush, tw_options) released 
+[2024-05-27 06:22:16 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-05-27 06:22:16 : INFO] - Lock option (updraft_lock_smush, tw_options) was deleted from the database 
+[2024-05-27 06:22:16 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2024-05-27 06:24:57 : INFO] - Re_Smush_It_Task with attachment ID : 13937, autocreated on : May 27, 2024 06:24:57 
+[2024-05-27 06:31:29 : INFO] - Re_Smush_It_Task with attachment ID : 13938, autocreated on : May 27, 2024 06:31:29 
+[2024-05-27 06:33:16 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-05-27 06:33:16 : DEBUG] - Lock option (updraft_lock_smush, tw_options) was created in the database 
+[2024-05-27 06:33:16 : INFO] - Lock (updraft_lock_smush, tw_options) acquired after initialising the database 
+[2024-05-27 06:33:16 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-05-27 06:33:16 : INFO] - Re_Smush_It_Task with attachment ID : 13937, autocreated on : May 27, 2024 06:24:57 
+[2024-05-27 06:33:16 : INFO] - File: Group-34456.png, Compression quality: 92 
+[2024-05-27 06:33:26 : INFO] - Backing up the original image - 2024/05/Group-34456-updraft-pre-smush-original.png 
+[2024-05-27 06:33:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-05-27 06:33:26 : INFO] - Successfully optimized the image - C:\xampp\htdocs\TractorWorld/wp-content/uploads/2024/05/Group-34456.png.The file was compressed from 925.31 KB to 319.18 KB, saving 65.51 percent, using WP-Optimize 
+[2024-05-27 06:33:26 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-05-27 06:33:26 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-05-27 06:33:26 : INFO] - Re_Smush_It_Task with attachment ID : 13938, autocreated on : May 27, 2024 06:31:29 
+[2024-05-27 06:33:26 : INFO] - File: Group-35297.png, Compression quality: 92 
+[2024-05-27 06:33:28 : INFO] - Backing up the original image - 2024/05/Group-35297-updraft-pre-smush-original.png 
+[2024-05-27 06:33:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-05-27 06:33:28 : INFO] - Successfully optimized the image - C:\xampp\htdocs\TractorWorld/wp-content/uploads/2024/05/Group-35297.png.The file was compressed from 140.75 KB to 43.22 KB, saving 69.3 percent, using WP-Optimize 
+[2024-05-27 06:33:28 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-05-27 06:33:28 : INFO] - Lock option (updraft_lock_smush, tw_options) released 
+[2024-05-27 06:33:28 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-05-27 06:33:28 : INFO] - Lock option (updraft_lock_smush, tw_options) was deleted from the database 
+[2024-05-27 06:33:28 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-05-27 07:05:22 : INFO] - Re_Smush_It_Task with attachment ID : 13940, autocreated on : May 27, 2024 07:05:22 
+[2024-05-27 07:06:48 : INFO] - Re_Smush_It_Task with attachment ID : 13941, autocreated on : May 27, 2024 07:06:48 
+[2024-05-27 07:07:27 : INFO] - Re_Smush_It_Task with attachment ID : 13942, autocreated on : May 27, 2024 07:07:27 
+[2024-05-27 07:11:13 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2024-05-27 07:11:13 : DEBUG] - Lock option (updraft_lock_smush, tw_options) was created in the database 
+[2024-05-27 07:11:13 : INFO] - Lock (updraft_lock_smush, tw_options) acquired after initialising the database 
+[2024-05-27 07:11:13 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-05-27 07:11:13 : INFO] - Task with ID 6 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-05-27 07:11:13 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-05-27 07:11:13 : INFO] - Task with ID 7 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2024-05-27 07:11:13 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-05-27 07:11:13 : INFO] - Re_Smush_It_Task with attachment ID : 13942, autocreated on : May 27, 2024 07:07:27 
+[2024-05-27 07:11:13 : INFO] - File: Frame-7-1-2.png, Compression quality: 92 
+[2024-05-27 07:11:16 : INFO] - Backing up the original image - 2024/05/Frame-7-1-2-updraft-pre-smush-original.png 
+[2024-05-27 07:11:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-05-27 07:11:16 : INFO] - Successfully optimized the image - C:\xampp\htdocs\TractorWorld/wp-content/uploads/2024/05/Frame-7-1-2.png.The file was compressed from 569.76 KB to 204.97 KB, saving 64.03 percent, using WP-Optimize 
+[2024-05-27 07:11:16 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-05-27 07:11:16 : INFO] - Lock option (updraft_lock_smush, tw_options) released 
+[2024-05-27 07:11:16 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2024-05-27 07:11:16 : INFO] - Lock option (updraft_lock_smush, tw_options) was deleted from the database 
+[2024-05-27 07:11:16 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-05-27 07:16:37 : INFO] - Re_Smush_It_Task with attachment ID : 13944, autocreated on : May 27, 2024 07:16:37 
+[2024-05-27 07:21:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-05-27 07:21:16 : DEBUG] - Lock option (updraft_lock_smush, tw_options) was created in the database 
+[2024-05-27 07:21:16 : INFO] - Lock (updraft_lock_smush, tw_options) acquired after initialising the database 
+[2024-05-27 07:21:16 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-05-27 07:21:16 : INFO] - Re_Smush_It_Task with attachment ID : 13944, autocreated on : May 27, 2024 07:16:37 
+[2024-05-27 07:21:16 : INFO] - File: mobile-slide-1.png, Compression quality: 92 
+[2024-05-27 07:21:19 : INFO] - Backing up the original image - 2024/05/mobile-slide-1-updraft-pre-smush-original.png 
+[2024-05-27 07:21:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-05-27 07:21:19 : INFO] - Successfully optimized the image - C:\xampp\htdocs\TractorWorld/wp-content/uploads/2024/05/mobile-slide-1.png.The file was compressed from 443.62 KB to 141.77 KB, saving 68.04 percent, using WP-Optimize 
+[2024-05-27 07:21:19 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-05-27 07:21:19 : INFO] - Lock option (updraft_lock_smush, tw_options) released 
+[2024-05-27 07:21:19 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-05-27 07:21:19 : INFO] - Lock option (updraft_lock_smush, tw_options) was deleted from the database 
+[2024-05-27 07:21:19 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-05-27 08:36:27 : INFO] - Pruning the smush log file 
